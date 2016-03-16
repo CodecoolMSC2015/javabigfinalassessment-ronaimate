@@ -49,8 +49,8 @@ public class Person
 		this.skillset = skillset;
 	}
 
-	public void addSkill()
+	public void addSkill(Skill skill)
 	{
-
+		skillset.add(skill);
 	}
 }
