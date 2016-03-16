@@ -1,0 +1,3 @@
+1: Start PersonStoreServerSocket;
+2: Start Tomcat;
+3: Go: http://localhost:8080/LabourHireProject/
